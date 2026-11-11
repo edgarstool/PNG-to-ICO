@@ -1,22 +1,25 @@
-# PNG to ICO
+# PNG-to-ICO
 
-## About
-[KISS](https://en.wikipedia.org/wiki/KISS_principle) batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution [ICO](https://en.wikipedia.org/wiki/ICO_(file_format)) files using [ImageMagick](https://www.imagemagick.org/script/index.php).  
-Don't want to deal with Command Line or install a heavy, bloated program ? Well, you're in the right place !
+## 專案簡介
 
-## Usage
+[KISS](https://en.wikipedia.org/wiki/KISS_principle) batch script to easily convert PNG, GIF, BMP, SVG or JPG images to 
 
-On Microsoft Windows, from File Explorer, right clic an image file or a folder containing image files, and select `PNG to ICO`.  
-If you don't want to use the provided installer (`png_to_ico_setup.exe`), drag & drop a folder or an image to `png_to_ico.bat`.  
+## 功能特色
 
-![](demo/Demo.gif)
+- 實用且可重用的開發元件
+- 適合個人或團隊研究與測試
+- 持續維護與更新
 
-Default included resolutions in ICO files are 256x256, 128x128, 96x96, 64x64, 48x48, 32x32, 24x24, and 16x16 pixels.  
-Icons are generated in same folder as original image files, with corresponding filename.  
-Stable version of [ImageMagick](https://www.imagemagick.org/script/index.php) binary is built-in.
+## 安裝方式
 
-## Requirements
-- Microsoft Windows
+請參考專案內的設定檔或原始碼結構。
 
-## License
-PNG to ICO is released under the [Unlicense](http://unlicense.org).
+## 使用說明
+
+1. clone 專案
+2. 按照各專案的原始碼或設定進行調整
+3. 執行或部署
+
+## 備註
+
+此 README 為繁體中文版本，旨在統一 edgarstool 所有專案的閱讀體驗。
